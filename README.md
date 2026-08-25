@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+John+Roman+Ruga!;Game+Developer+%26+Software+Engineer;Building+Interactive+Games+%26+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=000000&center=true&vcenter=true&width=650&height=70&lines=Hi%2C+I'm+John+Roman+Ruga!;Game+Developer+%26+Software+Engineer;Building+Interactive+Games+%26+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -22,7 +22,7 @@
     <a href="mailto:jrruga912@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://github.com/Demented912" target="_blank">
+    <a href="https://github.com/jrruga912" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
@@ -142,14 +142,14 @@ I am a passionate developer focused on the convergence of **2D/3D gameplay engin
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Demented912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demented912&layout=compact&theme=tokyonight&hide_border=true&card_width=350" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrruga912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrruga912&layout=compact&theme=tokyonight&hide_border=true&card_width=350" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Demented912&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrruga912&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -162,7 +162,7 @@ I am a passionate developer focused on the convergence of **2D/3D gameplay engin
 | :--- | :--- | :--- |
 | 📧 **Email** | Direct Contact | [jrruga912@gmail.com](mailto:jrruga912@gmail.com) |
 | 💼 **LinkedIn** | Professional Profile | [John Roman Ruga](https://www.linkedin.com/in/john-roman-ruga-6265b93b3/) |
-| 🐙 **GitHub** | Main Codebase Repository | [@Demented912](https://github.com/Demented912) |
+| 🐙 **GitHub** | Main Codebase Repository | [@jrruga912](https://github.com/jrruga912) |
 
 <br/>
 
