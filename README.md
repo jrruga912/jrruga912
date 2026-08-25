@@ -41,8 +41,9 @@
 
 I am a passionate developer focused on the convergence of **2D/3D gameplay engineering**, **full-stack web architectures**, and **database optimization**. Whether architecting state machines and horde survival physics in game engines or constructing robust database-backed web solutions, I build with performance, design, and user experience in mind.
 
-* 🔭 **Currently working on**: 2D Financial Simulation engines, Roguelite survival mechanics, and React applications.
-* 🌱 **Currently refining**: Advanced C# state architectures, Godot 4 / GDScript mechanics, and modern frontend design.
+* 🏆 **Recently Completed**: Capstone 2D Financial Simulation Engine (*Budget Life*), Roguelite Survival Action Game (*Tales of Destiny*), Healthcare Clinic DB System, & React Portfolio.
+* 🔭 **Currently working on**: Next-generation interactive game mechanics, scalable web applications, and new software projects.
+* 🌱 **Currently exploring**: Advanced multiplayer networking in Unity & Godot 4, cloud integration, and software design patterns.
 * 🎯 **Focus Areas**: Gameplay Systems, Web Frameworks, Database Systems, UI/UX Interaction.
 * ⚡ **Fun Fact**: I enjoy building custom minigames, randomized event logic, and combat physics engines from the ground up!
 
