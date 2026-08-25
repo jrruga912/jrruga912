@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=000000&center=true&vcenter=true&width=650&height=70&lines=Hi%2C+I'm+John+Roman+Ruga!;Game+Developer+%26+Software+Engineer;Building+Interactive+Games+%26+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=000000&center=true&vcenter=true&width=700&height=65&lines=Hi%2C+I'm+John+Roman+Ruga!;Game+Developer+%26+Software+Engineer;Building+Interactive+Games+%26+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -142,14 +142,14 @@ I am a passionate developer focused on the convergence of **2D/3D gameplay engin
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrruga912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrruga912&layout=compact&theme=tokyonight&hide_border=true&card_width=350" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrruga912&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrruga912&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrruga912&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=jrruga912&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ---
