@@ -142,8 +142,8 @@ I am a passionate developer focused on the convergence of **2D/3D gameplay engin
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrruga912&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrruga912&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrruga912&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jrruga912&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
